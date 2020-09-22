@@ -1,0 +1,6 @@
+.jsoneditor {
+  height: 500px !important;
+}
+.jsoneditor-dragarea{
+  display: none !important;
+}
